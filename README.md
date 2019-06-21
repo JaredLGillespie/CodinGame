@@ -8,3 +8,4 @@
 | Problem | Difficulty | Category | Solution |      
 |---------|------------|----------|----------|
 [ASCII Art](https://www.codingame.com/training/easy/ascii-art) | Easy | Loops, Arrays, Strings | [Python](./Python/ascii-art.py)
+[Bank Robbers](https://www.codingame.com/training/easy/bank-robbers) | Easy | Loops, Mathematics | [Python](./Python/bank-robbers.py)

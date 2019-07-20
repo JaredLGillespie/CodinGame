@@ -9,5 +9,6 @@
 |---------|------------|----------|----------|
 [1D Spreadsheet](https://www.codingame.com/training/easy/1d-spreadsheet) | Easy | Lazy Evaluation, Dependency Graph | [Python](./Python/1d-spreadsheet.py)
 [ASCII Art](https://www.codingame.com/training/easy/ascii-art) | Easy | Loops, Arrays, Strings | [Python](./Python/ascii-art.py)
+[Balanced Ternary Computer Encode](https://www.codingame.com/training/easy/balanced-ternary-computer-encode) | Easy | | [Python](./Python/balanced-ternary-computer-encode.py)
 [Bank Robbers](https://www.codingame.com/training/easy/bank-robbers) | Easy | Loops, Mathematics | [Python](./Python/bank-robbers.py)
 [Brackets Extreme Edition](https://www.codingame.com/training/easy/brackets-extreme-edition) | Easy | | [Python](./Python/brackets-extreme-edition.py)

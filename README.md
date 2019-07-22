@@ -13,3 +13,4 @@
 [Bank Robbers](https://www.codingame.com/training/easy/bank-robbers) | Easy | Loops, Mathematics | [Python](./Python/bank-robbers.py)
 [Blowing Fuse](https://www.codingame.com/training/easy/blowing-fuse) | Easy | Conditions | [Python](./Python/blowing-fuse.py)
 [Brackets Extreme Edition](https://www.codingame.com/training/easy/brackets-extreme-edition) | Easy | | [Python](./Python/brackets-extreme-edition.py)
+[Chuck Norris](https://www.codingame.com/training/easy/chuck-norris) | Easy | Conditions, Loops, Strings, Encoding | [Python](./Python/chuck-norris.py)

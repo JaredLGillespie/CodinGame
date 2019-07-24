@@ -7,6 +7,7 @@
 
 | Problem | Difficulty | Category | Solution |      
 |---------|------------|----------|----------|
+[1×1×1 Rubik's Cube Movements](https://www.codingame.com/training/easy/111-rubiks-cube-movements) | Easy | [Python](./Python/111-rubiks-cube-movements.py) 
 [1D Spreadsheet](https://www.codingame.com/training/easy/1d-spreadsheet) | Easy | Lazy Evaluation, Dependency Graph | [Python](./Python/1d-spreadsheet.py)
 [ASCII Art](https://www.codingame.com/training/easy/ascii-art) | Easy | Loops, Arrays, Strings | [Python](./Python/ascii-art.py)
 [Balanced Ternary Computer Encode](https://www.codingame.com/training/easy/balanced-ternary-computer-encode) | Easy | | [Python](./Python/balanced-ternary-computer-encode.py)

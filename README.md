@@ -17,4 +17,6 @@
 [Blowing Fuse](https://www.codingame.com/training/easy/blowing-fuse) | Easy | Conditions | [Python](./Python/blowing-fuse.py)
 [Brackets Extreme Edition](https://www.codingame.com/training/easy/brackets-extreme-edition) | Easy | | [Python](./Python/brackets-extreme-edition.py)
 [Brick in the Wall](https://www.codingame.com/training/easy/brick-in-the-wall) | Easy | Greedy Algorithms, Mathematics | [Python](./Python/brick-in-the-wall.py)
+[Bulk Email Generator](https://www.codingame.com/training/easy/bulk-email-generator) | Easy | | [Python](./Python/bulk-email-generator.py)
 [Chuck Norris](https://www.codingame.com/training/easy/chuck-norris) | Easy | Conditions, Loops, Strings, Encoding | [Python](./Python/chuck-norris.py)
+[Count as I Count](https://www.codingame.com/training/easy/count-as-i-count) | Easy | Combinatorics | [Python](./Python/count-as-i-count.py)

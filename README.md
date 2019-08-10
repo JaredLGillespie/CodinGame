@@ -21,4 +21,5 @@
 [Chuck Norris](https://www.codingame.com/training/easy/chuck-norris) | Easy | Conditions, Loops, Strings, Encoding | [Python](./Python/chuck-norris.py)
 [Count as I Count](https://www.codingame.com/training/easy/count-as-i-count) | Easy | Combinatorics | [Python](./Python/count-as-i-count.py)
 [Credit Card Verifier (Luhn's Algorithm)](https://www.codingame.com/training/easy/credit-card-verifier-luhns-algorithm) | Easy | | [Python](./Python/credit-card-verifier-luhns-algorithm.py)
+[What's so complex about Mandelbrot?](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot) | Easy | | [Python](./Python/whats-so-complex-about-mandelbrot.py)
 [XML MDF-2016](https://www.codingame.com/training/easy/xml-mdf-2016) | Easy | | [Python](./Python/xml-mdf-2016.py)

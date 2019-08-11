@@ -24,5 +24,6 @@
 [The River I.](https://www.codingame.com/training/easy/the-river-i-) | Easy | | [Python](./Python/the-river-i-.py)
 [The River II.](https://www.codingame.com/training/easy/the-river-ii-) | Easy | | [Python](./Python/the-river-ii-.py)
 [The Traveling Salesman Problem](https://www.codingame.com/training/easy/the-travelling-salesman-problem) | Easy | | [Python](./Python/the-traveling-salesman-problem.py)
+[There is no Spoon - Episode 1](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1) | Medium | Lists | [Python](./Python/there-is-no-spoon-episode-1.py)
 [What's so complex about Mandelbrot?](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot) | Easy | | [Python](./Python/whats-so-complex-about-mandelbrot.py)
 [XML MDF-2016](https://www.codingame.com/training/easy/xml-mdf-2016) | Easy | | [Python](./Python/xml-mdf-2016.py)

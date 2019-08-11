@@ -23,6 +23,7 @@
 [Credit Card Verifier (Luhn's Algorithm)](https://www.codingame.com/training/easy/credit-card-verifier-luhns-algorithm) | Easy | | [Python](./Python/credit-card-verifier-luhns-algorithm.py)
 [Mars Lander - Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1) | Easy | Conditions | [Python](./Python/conditions.py)
 [Mime Type](https://www.codingame.com/training/easy/mime-type) | Easy | Conditions, Loops, Hash Tables, Strings | [Python](./Python/mime-type.py)
+[Smooth!](https://www.codingame.com/training/easy/smooth) | Easy | Brute-Force, Number Theory, Reading Comprehension, Smooth, Fruit | [Python](./Python/smooth.py)
 [The Descent](https://www.codingame.com/training/easy/the-descent) | Easy | Loops | [Python](./Python/the-descent.py)
 [The Frog Jump I](https://www.codingame.com/training/easy/the-frog-jump-1) | Easy | Physics | [Python](./Python/the-frog-jump.py)
 [The River I.](https://www.codingame.com/training/easy/the-river-i-) | Easy | | [Python](./Python/the-river-i-.py)

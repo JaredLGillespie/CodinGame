@@ -21,6 +21,7 @@
 [Chuck Norris](https://www.codingame.com/training/easy/chuck-norris) | Easy | Conditions, Loops, Strings, Encoding | [Python](./Python/chuck-norris.py)
 [Count as I Count](https://www.codingame.com/training/easy/count-as-i-count) | Easy | Combinatorics | [Python](./Python/count-as-i-count.py)
 [Credit Card Verifier (Luhn's Algorithm)](https://www.codingame.com/training/easy/credit-card-verifier-luhns-algorithm) | Easy | | [Python](./Python/credit-card-verifier-luhns-algorithm.py)
+[The Frog Jump I](https://www.codingame.com/training/easy/the-frog-jump-1) | Easy | Physics | [Python](./Python/the-frog-jump.py)
 [The River I.](https://www.codingame.com/training/easy/the-river-i-) | Easy | | [Python](./Python/the-river-i-.py)
 [The River II.](https://www.codingame.com/training/easy/the-river-ii-) | Easy | | [Python](./Python/the-river-ii-.py)
 [The Traveling Salesman Problem](https://www.codingame.com/training/easy/the-travelling-salesman-problem) | Easy | | [Python](./Python/the-traveling-salesman-problem.py)

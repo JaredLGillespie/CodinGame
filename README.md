@@ -22,6 +22,7 @@
 [Count as I Count](https://www.codingame.com/training/easy/count-as-i-count) | Easy | Combinatorics | [Python](./Python/count-as-i-count.py)
 [Credit Card Verifier (Luhn's Algorithm)](https://www.codingame.com/training/easy/credit-card-verifier-luhns-algorithm) | Easy | | [Python](./Python/credit-card-verifier-luhns-algorithm.py)
 [Mars Lander - Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1) | Easy | Conditions | [Python](./Python/conditions.py)
+[May the Triforce Be With You](https://www.codingame.com/training/easy/may-the-triforce-be-with-you) | Easy | Loops, ASCII Art | [Python](./Python/may-the-triforce-be-with-you.py)
 [Mime Type](https://www.codingame.com/training/easy/mime-type) | Easy | Conditions, Loops, Hash Tables, Strings | [Python](./Python/mime-type.py)
 [Morellet's Random Lines](https://www.codingame.com/training/easy/morellets-random-lines) | Easy | Conditions, Mathematics, Geometry | [Python](./Python/morellets-random-lines.py)
 [Smooth!](https://www.codingame.com/training/easy/smooth) | Easy | Brute-Force, Number Theory, Reading Comprehension, Smooth, Fruit | [Python](./Python/smooth.py)

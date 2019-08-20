@@ -21,6 +21,7 @@
 [Chuck Norris](https://www.codingame.com/training/easy/chuck-norris) | Easy | Conditions, Loops, Strings, Encoding | [Python](./Python/chuck-norris.py)
 [Count as I Count](https://www.codingame.com/training/easy/count-as-i-count) | Easy | Combinatorics | [Python](./Python/count-as-i-count.py)
 [Credit Card Verifier (Luhn's Algorithm)](https://www.codingame.com/training/easy/credit-card-verifier-luhns-algorithm) | Easy | | [Python](./Python/credit-card-verifier-luhns-algorithm.py)
+[Darts](https://www.codingame.com/training/easy/darts) | Easy | Geometry, Collision Detection | [Python](./Python/darts.py)
 [Guessing N Cheating](https://www.codingame.com/training/easy/guessing-n-cheating) | Easy | Conditions, Sets, Logic | [Python](./Python/guessing-n-cheating.py)
 [Mars Lander - Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1) | Easy | Conditions | [Python](./Python/conditions.py)
 [May the Triforce Be With You](https://www.codingame.com/training/easy/may-the-triforce-be-with-you) | Easy | Loops, ASCII Art | [Python](./Python/may-the-triforce-be-with-you.py)

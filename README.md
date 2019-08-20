@@ -33,6 +33,7 @@
 [Simple Awalé](https://www.codingame.com/training/easy/simple-awale) | Easy | | [Python](./Python/simple-awale.py)
 [Smooth!](https://www.codingame.com/training/easy/smooth) | Easy | Brute-Force, Number Theory, Reading Comprehension, Smooth, Fruit | [Python](./Python/smooth.py)
 [Stall Tilt](https://www.codingame.com/training/easy/stall-tilt) | Easy | Physics | [Python](./Python/stall-tilt.py)
+[The Dart 101](https://www.codingame.com/training/easy/the-dart-101) | Easy | Conditions | [Python](./Python/the-dart-101.py)
 [The Descent](https://www.codingame.com/training/easy/the-descent) | Easy | Loops | [Python](./Python/the-descent.py)
 [The Frog Jump I](https://www.codingame.com/training/easy/the-frog-jump-1) | Easy | Physics | [Python](./Python/the-frog-jump.py)
 [The River I.](https://www.codingame.com/training/easy/the-river-i-) | Easy | | [Python](./Python/the-river-i-.py)

@@ -33,6 +33,7 @@
 [Simple Awalé](https://www.codingame.com/training/easy/simple-awale) | Easy | | [Python](./Python/simple-awale.py)
 [Smooth!](https://www.codingame.com/training/easy/smooth) | Easy | Brute-Force, Number Theory, Reading Comprehension, Smooth, Fruit | [Python](./Python/smooth.py)
 [Stall Tilt](https://www.codingame.com/training/easy/stall-tilt) | Easy | Physics | [Python](./Python/stall-tilt.py)
+[Temperatures](https://www.codingame.com/training/easy/temperatures) | Easy | Conditions, Loops, Arrays | [Python](./Python/temperatures.py)
 [Text Formatting](https://www.codingame.com/training/easy/text-formatting) | Easy | | [Python](./Python/text-formatting.py)
 [The Dart 101](https://www.codingame.com/training/easy/the-dart-101) | Easy | Conditions | [Python](./Python/the-dart-101.py)
 [The Descent](https://www.codingame.com/training/easy/the-descent) | Easy | Loops | [Python](./Python/the-descent.py)

@@ -30,6 +30,7 @@
 [Mime Type](https://www.codingame.com/training/easy/mime-type) | Easy | Conditions, Loops, Hash Tables, Strings | [Python](./Python/mime-type.py)
 [Morellet's Random Lines](https://www.codingame.com/training/easy/morellets-random-lines) | Easy | Conditions, Mathematics, Geometry | [Python](./Python/morellets-random-lines.py)
 [Rugby Score](https://www.codingame.com/training/easy/rugby-score) | Easy | | [Python](./Python/rugby-score.py)
+[Self-Driving Car Testing](https://www.codingame.com/training/easy/self-driving-car-testing) | Easy | | [Python](./Python/self-driving-car-testing.py)
 [Simple Awalé](https://www.codingame.com/training/easy/simple-awale) | Easy | | [Python](./Python/simple-awale.py)
 [Smooth!](https://www.codingame.com/training/easy/smooth) | Easy | Brute-Force, Number Theory, Reading Comprehension, Smooth, Fruit | [Python](./Python/smooth.py)
 [Stall Tilt](https://www.codingame.com/training/easy/stall-tilt) | Easy | Physics | [Python](./Python/stall-tilt.py)

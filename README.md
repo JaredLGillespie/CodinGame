@@ -30,6 +30,7 @@
 [Mime Type](https://www.codingame.com/training/easy/mime-type) | Easy | Conditions, Loops, Hash Tables, Strings | [Python](./Python/mime-type.py)
 [Morellet's Random Lines](https://www.codingame.com/training/easy/morellets-random-lines) | Easy | Conditions, Mathematics, Geometry | [Python](./Python/morellets-random-lines.py)
 [Plague, Jr](https://www.codingame.com/training/easy/plague-jr) | Easy | Graph Theory, Trees | [Python](./Python/plague-jr.py)
+[Power of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1) | Easy | Conditions | [Python](./Python/power-of-thor-episode-1.py)
 [Rectangular Block Spinner](https://www.codingame.com/training/easy/rectangular-block-spinner) | Easy | | [Python](./Python/rectangular-block-spinner.py)
 [Rooks Movements](https://www.codingame.com/training/easy/rooks-movements) | Easy | Loops, Classic Board Games, Condition, Chess | [Python](./Python/rooks-movements.py)
 [Rugby Score](https://www.codingame.com/training/easy/rugby-score) | Easy | | [Python](./Python/rugby-score.py)

@@ -30,6 +30,7 @@
 [Mime Type](https://www.codingame.com/training/easy/mime-type) | Easy | Conditions, Loops, Hash Tables, Strings | [Python](./Python/mime-type.py)
 [Morellet's Random Lines](https://www.codingame.com/training/easy/morellets-random-lines) | Easy | Conditions, Mathematics, Geometry | [Python](./Python/morellets-random-lines.py)
 [Order of Succession](https://www.codingame.com/training/easy/order-of-succession) | Easy | Graphs, Path Finding, Depth First Search | [Python](./Python/order-of-succession.py)
+[Organic Compounds](https://www.codingame.com/training/easy/organic-compounds) | Easy | String Manipulation | [Python](./Python/organic-compounds.py)
 [Pirate's Treasure](https://www.codingame.com/training/easy/pirates-treasure) | Easy | Conditions, Loops, Arrays | [Python](./Python/pirates-treasure.py)
 [Plague, Jr](https://www.codingame.com/training/easy/plague-jr) | Easy | Graph Theory, Trees | [Python](./Python/plague-jr.py)
 [Power of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1) | Easy | Conditions | [Python](./Python/power-of-thor-episode-1.py)

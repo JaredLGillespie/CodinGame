@@ -25,6 +25,7 @@
 [Defibrillators](https://www.codingame.com/training/easy/defibrillators) | Easy | Loops, Distances, Trigonometry | [Python](./Python/defibrillators.py)
 [Ghost Legs](https://www.codingame.com/training/easy/ghost-legs) | Easy | Ascii Art, Loops, Conditions | [Python](./Python/ghost-legs.py)
 [Guessing N Cheating](https://www.codingame.com/training/easy/guessing-n-cheating) | Easy | Conditions, Sets, Logic | [Python](./Python/guessing-n-cheating.py)
+[Lumen](https://www.codingame.com/training/easy/lumen) | Easy | Loops, 2D Array | [Python](./Python/lumen.py)
 [Mars Lander - Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1) | Easy | Conditions | [Python](./Python/conditions.py)
 [May the Triforce Be With You](https://www.codingame.com/training/easy/may-the-triforce-be-with-you) | Easy | Loops, ASCII Art | [Python](./Python/may-the-triforce-be-with-you.py)
 [Mime Type](https://www.codingame.com/training/easy/mime-type) | Easy | Conditions, Loops, Hash Tables, Strings | [Python](./Python/mime-type.py)

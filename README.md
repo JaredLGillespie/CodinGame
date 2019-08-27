@@ -23,6 +23,7 @@
 [Credit Card Verifier (Luhn's Algorithm)](https://www.codingame.com/training/easy/credit-card-verifier-luhns-algorithm) | Easy | | [Python](./Python/credit-card-verifier-luhns-algorithm.py)
 [Darts](https://www.codingame.com/training/easy/darts) | Easy | Geometry, Collision Detection | [Python](./Python/darts.py)
 [Defibrillators](https://www.codingame.com/training/easy/defibrillators) | Easy | Loops, Distances, Trigonometry | [Python](./Python/defibrillators.py)
+[Encryption/Decryption of Enigma Machine](https://www.codingame.com/training/easy/encryptiondecryption-of-enigma-machine) | Easy | Encoding, Strings, Cryptography, String Manipulation | [Python](./Python/encryptiondecryption-of-enigma-machine.py)
 [Ghost Legs](https://www.codingame.com/training/easy/ghost-legs) | Easy | Ascii Art, Loops, Conditions | [Python](./Python/ghost-legs.py)
 [Guessing N Cheating](https://www.codingame.com/training/easy/guessing-n-cheating) | Easy | Conditions, Sets, Logic | [Python](./Python/guessing-n-cheating.py)
 [Horse-Racing Duals](https://www.codingame.com/training/easy/horse-racing-duals) | Easy | Loops | [Python](./Python/horse-racing-duals.py)

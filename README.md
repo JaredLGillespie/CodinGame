@@ -27,6 +27,7 @@
 [Guessing N Cheating](https://www.codingame.com/training/easy/guessing-n-cheating) | Easy | Conditions, Sets, Logic | [Python](./Python/guessing-n-cheating.py)
 [Horse-Racing Duals](https://www.codingame.com/training/easy/horse-racing-duals) | Easy | Loops | [Python](./Python/horse-racing-duals.py)
 [Horse-Racing Hyperduals](https://www.codingame.com/training/easy/horse-racing-hyperduals) | Easy | Loops | [Python](./Python/horse-racing-hyperduals.py)
+[ISBN Check Digit](https://www.codingame.com/training/easy/isbn-check-digit) | Easy | Arithmetics, Check-Digit | [Python](./Python/isbn-check-digit.py)
 [Lumen](https://www.codingame.com/training/easy/lumen) | Easy | Loops, 2D Array | [Python](./Python/lumen.py)
 [Mars Lander - Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1) | Easy | Conditions | [Python](./Python/conditions.py)
 [May the Triforce Be With You](https://www.codingame.com/training/easy/may-the-triforce-be-with-you) | Easy | Loops, ASCII Art | [Python](./Python/may-the-triforce-be-with-you.py)

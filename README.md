@@ -29,6 +29,7 @@
 [Hooch Clash](https://www.codingame.com/training/easy/hooch-clash) | Brute-Force, Number Theory, Hooch, Diophantine Equation, Reading Comprehension | [Python](./Python/hooch-clash.py)
 [Horse-Racing Duals](https://www.codingame.com/training/easy/horse-racing-duals) | Easy | Loops | [Python](./Python/horse-racing-duals.py)
 [Horse-Racing Hyperduals](https://www.codingame.com/training/easy/horse-racing-hyperduals) | Easy | Loops | [Python](./Python/horse-racing-hyperduals.py)
+[How Time Flies](https://www.codingame.com/training/easy/how-time-flies) | Easy | | [Python](./Python/how-time-flies.py)
 [ISBN Check Digit](https://www.codingame.com/training/easy/isbn-check-digit) | Easy | Arithmetics, Check-Digit | [Python](./Python/isbn-check-digit.py)
 [Lumen](https://www.codingame.com/training/easy/lumen) | Easy | Loops, 2D Array | [Python](./Python/lumen.py)
 [Mars Lander - Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1) | Easy | Conditions | [Python](./Python/conditions.py)

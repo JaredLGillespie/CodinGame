@@ -31,6 +31,7 @@
 [Horse-Racing Hyperduals](https://www.codingame.com/training/easy/horse-racing-hyperduals) | Easy | Loops | [Python](./Python/horse-racing-hyperduals.py)
 [How Time Flies](https://www.codingame.com/training/easy/how-time-flies) | Easy | | [Python](./Python/how-time-flies.py)
 [ISBN Check Digit](https://www.codingame.com/training/easy/isbn-check-digit) | Easy | Arithmetics, Check-Digit | [Python](./Python/isbn-check-digit.py)
+[Jack Silver: The Casino](https://www.codingame.com/training/easy/jack-silver-the-casino) | Easy | | [Python](./Python/jack-silver-the-casino.py)
 [Lumen](https://www.codingame.com/training/easy/lumen) | Easy | Loops, 2D Array | [Python](./Python/lumen.py)
 [Mars Lander - Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1) | Easy | Conditions | [Python](./Python/conditions.py)
 [May the Triforce Be With You](https://www.codingame.com/training/easy/may-the-triforce-be-with-you) | Easy | Loops, ASCII Art | [Python](./Python/may-the-triforce-be-with-you.py)

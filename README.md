@@ -38,6 +38,7 @@
 [Mime Type](https://www.codingame.com/training/easy/mime-type) | Easy | Conditions, Loops, Hash Tables, Strings | [Python](./Python/mime-type.py)
 [Morellet's Random Lines](https://www.codingame.com/training/easy/morellets-random-lines) | Easy | Conditions, Mathematics, Geometry | [Python](./Python/morellets-random-lines.py)
 [Nature of Quadrilateral](https://www.codingame.com/training/easy/nature-of-quadrilaterals) | Easy | Strings, Trigonometry, Mathematics, Geometry | [Python](./Python/nature-of-quadrilateral.py)
+[Onboarding](https://www.codingame.com/training/easy/onboarding) | Easy | Conditions | [Python](./Python/onboarding.py)
 [Order of Succession](https://www.codingame.com/training/easy/order-of-succession) | Easy | Graphs, Path Finding, Depth First Search | [Python](./Python/order-of-succession.py)
 [Organic Compounds](https://www.codingame.com/training/easy/organic-compounds) | Easy | String Manipulation | [Python](./Python/organic-compounds.py)
 [Pirate's Treasure](https://www.codingame.com/training/easy/pirates-treasure) | Easy | Conditions, Loops, Arrays | [Python](./Python/pirates-treasure.py)
